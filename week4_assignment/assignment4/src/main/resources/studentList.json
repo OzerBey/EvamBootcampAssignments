@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Yasin",
+    "surname": "Ozer",
+    "age": 24
+  },
+  {
+    "name": "Ahmet",
+    "surname": "Sureli",
+    "age": 12
+  },
+  {
+    "name": "Mehmet",
+    "surname": "Kara",
+    "age": 18
+  },
+  {
+    "name": "Cengiz",
+    "surname": "Soydan",
+    "age": 33
+  },
+  {
+    "name": "Enes",
+    "surname": "Ersoy",
+    "age": 17
+  },
+  {
+    "name": "Ali",
+    "surname": "Atay",
+    "age": 33
+  },
+  {
+    "name": "Cengiz",
+    "surname": "Khan",
+    "age": 27
+  },
+  {
+    "name": "Ayşe",
+    "surname": "Oralı",
+    "age": 22
+  },
+  {
+    "name": "Aras",
+    "surname": "Bulut",
+    "age": 23
+  },
+  {
+    "name": "Zekiye",
+    "surname": "Zeki",
+    "age": 43
+  },
+  {
+    "name": "Jack",
+    "surname": "Sparrow",
+    "age": 34
+  },
+  {
+    "name": "Burak",
+    "surname": "Yetiş",
+    "age": 29
+  }
+]
